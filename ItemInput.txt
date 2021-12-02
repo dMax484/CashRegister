@@ -1,0 +1,11 @@
+20 1.99 Potato_Chips
+10 5.99 Ibuprofen
+4 1.42 Candy
+55 3.10 Coffee
+12 3.25 Hummus
+12 4.55 Guacamole 
+7 0.80 Baklava
+45 1.5 Chocolate_Chip_Cookies
+3 12.50 Sushi 
+4 7.50 Italian_Sub
+8 12.75 Calamari
